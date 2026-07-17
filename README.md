@@ -1,4 +1,3 @@
-Confirmado: aba "Dashboard" tem o drawing com os 4 gráficos + slicer. Agora sim, aqui está o README robusto, baseado no que realmente está no seu arquivo:---
 
 ## 📊 Painel de Vendas
 
