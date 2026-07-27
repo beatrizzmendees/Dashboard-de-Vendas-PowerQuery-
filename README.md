@@ -1,8 +1,6 @@
 
 ## 📊 Painel de Vendas
 
-**Entrega 9 – Capacitação de Ciência de Dados**
-
 ### 1. Objetivo
 
 Este arquivo (`Entrega_9_-_Dashboard___PowerQuery.xlsx`) é um dashboard construído a partir de uma base de dados de vendas, aplicando os conceitos trabalhados na capacitação: importação e tratamento de base no Power Query, modelagem de dados no Power Pivot, construção de indicadores (medidas DAX), tabelas dinâmicas e estruturação de um mini dashboard analítico.
@@ -62,6 +60,10 @@ Essas tabelas alimentam **4 gráficos** na aba `Dashboard`:
 
 Há uma **segmentação de dados (slicer) por Ano** conectada às tabelas dinâmicas, permitindo filtrar o painel de forma interativa.
 
----
+## 👩‍💻 Autora
+
+Desenvolvido por **Ana Beatriz Mendes de Sousa**
+[LinkedIn](https://www.linkedin.com/in/ana-beatriz-mendes-de-sousa) · [GitHub](https://github.com/beatrizzmendees)
+
 
 Quer que eu salve isso como uma aba "Leia-me" dentro do próprio arquivo .xlsx, ou como um arquivo .md separado pra você anexar na entrega?
