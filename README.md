@@ -58,11 +58,9 @@ Essas tabelas alimentam **4 gráficos** na aba `Dashboard`:
 - Distribuição por equipe de vendas (rosca)
 
 Há uma **segmentação de dados (slicer) por Ano** conectada às tabelas dinâmicas, permitindo filtrar o painel de forma interativa.
-
 ## 👩‍💻 Autora
 
 Desenvolvido por **Ana Beatriz Mendes de Sousa**
 [LinkedIn](https://www.linkedin.com/in/ana-beatriz-mendes-de-sousa) · [GitHub](https://github.com/beatrizzmendees)
-
 
 Quer que eu salve isso como uma aba "Leia-me" dentro do próprio arquivo .xlsx, ou como um arquivo .md separado pra você anexar na entrega
