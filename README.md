@@ -1,4 +1,3 @@
-
 ## 📊 Painel de Vendas
 
 ### 1. Objetivo
@@ -66,4 +65,4 @@ Desenvolvido por **Ana Beatriz Mendes de Sousa**
 [LinkedIn](https://www.linkedin.com/in/ana-beatriz-mendes-de-sousa) · [GitHub](https://github.com/beatrizzmendees)
 
 
-Quer que eu salve isso como uma aba "Leia-me" dentro do próprio arquivo .xlsx, ou como um arquivo .md separado pra você anexar na entrega?
+Quer que eu salve isso como uma aba "Leia-me" dentro do próprio arquivo .xlsx, ou como um arquivo .md separado pra você anexar na entrega
